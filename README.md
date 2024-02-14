@@ -1,8 +1,7 @@
 # TASK_01 Temperature Conversion Program
 <p><b> Author :- Ankit Kirat </b></p>
 
-<p>Sample Input/Output :-</p><br>
-
+<b>Sample Input/Output :-</b><br>
 The Generated Number Is Between 0-1000 <br>
 So Try TO Guess Number, Best Of Luck..!<br>
 Enter No. :- <br>
